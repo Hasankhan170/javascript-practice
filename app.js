@@ -89,13 +89,13 @@
 // asyncFun();
 
 
-const div = document.querySelector('div')
+// const div = document.querySelector('div')
 
-const obj = {
-    name: 'hasan',
-    age: 20,
-    isloggedIn : true,
-}
+// const obj = {
+//     name: 'hasan',
+//     age: 20,
+//     isloggedIn : true,
+// }
 
 
 // const entrie = Object.entries(obj)
@@ -141,3 +141,16 @@ const obj = {
 
     
 // });
+
+
+
+
+// let obj = { a: 1, b: 2, c: 3 };
+// let outputDiv = document.getElementById('output');
+
+// for (let key in obj) {
+//     if (obj.hasOwnProperty(key)) {
+
+//         outputDiv.innerHTML += `<h1>${key} : ${obj[key]}</h1>`;
+//     }
+// }
