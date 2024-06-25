@@ -192,3 +192,21 @@
 // }
 
 // asyncFun();
+
+
+
+
+
+// const obj = {
+//     name: 'hasan',
+//     age: 20,
+//     isloggedIn : true,
+//     city: 'dhaka',
+//     country: 'bangladesh',
+//     adress : 'shah faisal'
+// }
+
+// for(const key in obj){
+//     // console.log(key);
+//     console.log(obj[key]);
+// }
