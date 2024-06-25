@@ -98,6 +98,25 @@ const obj = {
 }
 
 
+// const entrie = Object.entries(obj)
+// const param = new URLSearchParams(entrie)
+// console.log(param.toString());
+
+
+
+
+// const entrie = Object.entries(obj)
+// for(const [key,value] of entrie){
+//     console.log(key);
+//     console.log(value);
+// }
+
+// for(const key in obj){
+//     if(obj.hasOwnProperty(key))
+//         console.log(obj[key]);
+// }
+
+
 // const key = Object.keys(obj)
 // console.log(key);
 
