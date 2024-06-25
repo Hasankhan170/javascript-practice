@@ -90,11 +90,24 @@
 
 
 const div = document.querySelector('div')
+
 const obj = {
     name: 'hasan',
     age: 20,
     isloggedIn : true,
 }
+
+
+// const key = Object.keys(obj)
+// console.log(key);
+
+// const value = Object.values(obj)
+// console.log(value);
+
+// const entrie = Object.entries(obj)
+// console.log(entrie[2]);
+
+
 
 // let value = Object.values(obj)
 // for(let i = 0; i < value.length;i++){
