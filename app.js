@@ -161,11 +161,34 @@
 // import and export 
 
 
- const hasan = [1,2,3,4,5];
- const nikal = [6,7,8,9,10];
- const mubarak = [11,12,13,14,15];
- const shadi = [16,17,18,19,20];
+//  const hasan = [1,2,3,4,5];
+//  const nikal = [6,7,8,9,10];
+//  const mubarak = [11,12,13,14,15];
+//  const shadi = [16,17,18,19,20];
 
- console.log(hasan,nikal,mubarak,shadi);
+//  console.log(hasan,nikal,mubarak,shadi);
 
- export {hasan,nikal,mubarak,shadi}
+//  export {hasan,nikal,mubarak,shadi}
+
+
+
+// fetch('https://jsonplaceholder.typicode.com/users')
+// .then((res)=>{
+//     return res.json();
+// }).then((res)=>{
+//     console.log(res);
+// })
+
+
+// async function asyncFun(){
+//     try {
+//         const data = await fetch('https://jsonplaceholder.typicode.com/users')
+//         const res = await data.json();
+//         console.log(res);
+//     } catch (error) {
+//         console.log(error);
+        
+//     }
+// }
+
+// asyncFun();
