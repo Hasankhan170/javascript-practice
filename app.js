@@ -1,4 +1,3 @@
-
 // Ternary Operator
 
 // const age = 20;
@@ -154,3 +153,19 @@
 //         outputDiv.innerHTML += `<h1>${key} : ${obj[key]}</h1>`;
 //     }
 // }
+
+
+
+
+
+// import and export 
+
+
+ const hasan = [1,2,3,4,5];
+ const nikal = [6,7,8,9,10];
+ const mubarak = [11,12,13,14,15];
+ const shadi = [16,17,18,19,20];
+
+ console.log(hasan,nikal,mubarak,shadi);
+
+ export {hasan,nikal,mubarak,shadi}
